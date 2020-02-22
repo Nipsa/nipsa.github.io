@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <style>
+        body{
+            overflow-y: hidden;
+        }
+    </style>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="img/PHOTO-2020-02-20-11-07-47.jpg" type="image/png">
+    <title>Nigeria Society for Prevention of Accidents</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="vendors/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendors/animate-css/animate.css">
+    <!-- main css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+<!--================Header Menu Area =================-->
+<header class="header_area">
+    <div class="top_menu row m0">
+        <div class="container">
+            <div class="float-left">
+                <a class="dn_btn" href=""><i class="ti-mobile"></i>+2348028319478</a>
+            </div>
+            <div class="float-right">
+                 <span class="dn_btn"> <i class="ti-location-pin"></i> 14/16 Osolo Way, Off Airport Road, 7/8 Bus-Stop,
+Ajao Estate, Lagos, Nigeria.
+</span>
+            </div>
+        </div>
+    </div>
+    <div class="main_menu">
+        <nav class="navbar navbar-expand-lg">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <a class="navbar-brand logo_h" href="index.html"><img src="img/PHOTO-2020-02-20-11-07-47.jpg"
+                                                                      height="80" width="250" alt=""></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                        data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+                    <ul class="nav navbar-nav menu_nav ml-auto">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item submenu dropdown">
+                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button"
+                               aria-haspopup="true" aria-expanded="false">About</a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item"><a class="nav-link" href="history.html">History</a></li>
+                                <li class="nav-item"><a class="nav-link" href="board.html">Board Of Trustees</a></li>
+                                <li class="nav-item"><a class="nav-link" href="members.html">Members</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" href="service.html">services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="project.html">partners</a></li>
+                        <li class="nav-item"><a class="nav-link" href="project.html">courses</a></li>
+                        <li class="nav-item"><a class="nav-link" href="project.html">events</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </div>
+</header>
+<!--================Header Menu Area =================-->
+
+<!--================Home Banner Area =================-->
+<section class="home_banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0"
+             data-background=""></div>
+        <div class="container">
+            <div class="banner_content text-center">
+                <span>Nigerian Society for Prevention of Accidents</span>
+                <h3>Ensuring and Putting your
+                    <br/>Safety First</h3>
+
+                <a class="main_btn" href="history.html">More about us</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="js/jquery-2.2.4.min.js"></script>
+<script src="js/popper.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/stellar.js"></script>
+<script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+<script src="vendors/isotope/isotope.pkgd.min.js"></script>
+<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+<script src="js/jquery.ajaxchimp.min.js"></script>
+<script src="js/jquery.counterup.min.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/mail-script.js"></script>
+<script src="js/contact.js"></script>
+<script src="js/jquery.form.js"></script>
+<script src="js/jquery.validate.min.js"></script>
+<script src="js/mail-script.js"></script>
+<script src="js/theme.js"></script>
+</body>
+</html>
